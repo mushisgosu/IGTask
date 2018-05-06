@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">IGTask</string>
+    <string name="name">Name</string>
+    <string name="offer">Offer</string>
+    <string name="change">Change</string>
+</resources>
